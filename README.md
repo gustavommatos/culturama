@@ -1,2 +1,2 @@
 # culturama
-Projeto desenvolvido durante curso para praticar o CSS utilizando o Grid e Flexbox.
+Projeto Culturama do curso Praticando CSS: Grid e Flexbox da Alura.
